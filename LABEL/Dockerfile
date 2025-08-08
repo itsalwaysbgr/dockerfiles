@@ -1,6 +1,5 @@
-#FROM almalinux:9
-FROM kntheun/run:9
+FROM almalinux:9
 LABEL COURSE="DevOps" \
-      TRAINER="SK" \
-      DUARATION="2 hours" \
-      com.joindevops.dockerfile.author="SK"     
+      TRAINER="Sivakumar" \
+      DURATION="120HRS" \
+      com.joindevops.dockerfile.author="siva@joindevops.com"
